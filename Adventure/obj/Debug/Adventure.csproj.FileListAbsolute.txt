@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\AdventureRPG\Adventure\bin\Debug\Adventure5.exe.config
+C:\Users\John\Desktop\AdventureRPG\Adventure\bin\Debug\Adventure5.exe
+C:\Users\John\Desktop\AdventureRPG\Adventure\bin\Debug\Adventure5.pdb
+C:\Users\John\Desktop\AdventureRPG\Adventure\obj\Debug\Adventure.csprojAssemblyReference.cache
+C:\Users\John\Desktop\AdventureRPG\Adventure\obj\Debug\Adventure.FrmInventory.resources
+C:\Users\John\Desktop\AdventureRPG\Adventure\obj\Debug\Adventure.FrmMain.resources
+C:\Users\John\Desktop\AdventureRPG\Adventure\obj\Debug\Adventure.Properties.Resources.resources
+C:\Users\John\Desktop\AdventureRPG\Adventure\obj\Debug\Adventure.csproj.GenerateResource.cache
+C:\Users\John\Desktop\AdventureRPG\Adventure\obj\Debug\Adventure.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\AdventureRPG\Adventure\obj\Debug\Adventure5.exe
+C:\Users\John\Desktop\AdventureRPG\Adventure\obj\Debug\Adventure5.pdb
